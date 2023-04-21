@@ -109,6 +109,7 @@ textarea {
 @media (min-width: 400px) {
   .contactInfo {
     font-size: 15px;
+    font-style: italic;
   }
 }
 
