@@ -22,7 +22,7 @@ const SocialIcons = () => {
       <a className="icon" style={styles.icon} href="https://twitter.com/Chibykke">
         <i className="fa-brands fa-twitter" aria-hidden="true" title="Ezechindu Chibuike' Twitter Profile"></i>
       </a>
-      <a className="icon" style={styles.icon} href=" https://wa.me/08164598818">
+      <a className="icon" style={styles.icon} href="https://wa.link/jnw5ff">
         <i className="fa-brands fa-whatsapp" aria-hidden="true" title="Ezechindu Chibuike' Twitter Profile"></i>
       </a>
     </div>
