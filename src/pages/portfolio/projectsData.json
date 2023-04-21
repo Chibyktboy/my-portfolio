@@ -1,32 +1,32 @@
 [
  
   {
-    "title": "Weather.....coming soon",
+    "title": "Weather-app",
     "image": "./projectImages/weather.png",
-    "technologies": "jQuery | HTML | CSS",
-    "description": " ",
-    "github": "",
-    "deployed": "",
+    "technologies": "React| HTML | CSS",
+    "description": "This is a simple weather app built with react , input any valid city of your choice and click on submit, it will display the weather condition of the city",
+    "github": "https://github.com/Chibyktboy/weather-app",
+    "deployed": "https://chitech-weather-app.netlify.app/",
     "bgcolor": "#29cbe0",
     "id": "2"
   },
   {
-    "title": "ToDo-list ....comming soon",
+    "title": "ToDo-list",
     "image": "./projectImages/team.png",
-    "technologies": "",
-    "description": "",
-    "github": "",
-    "deployed": "",
+    "technologies": "React| HTML | CSS",
+    "description": "A simple to-do list built with react",
+    "github": "https://github.com/Chibyktboy/to-do-list",
+    "deployed": "https://chitech-todo-app.netlify.app/",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
-    "title": "Quiz ....coming soon",
+    "title": "Quiz-app",
     "image": "./projectImages/quiz.png",
     "technologies": "JS | HTML | CSS",
-    "description": "",
-    "github": "",
-    "deployed": "",
+    "description": "this is a javaScript quiz appliction built with react, ",
+    "github": "https://github.com/Chibyktboy/quiz-app",
+    "deployed": "https://chitech-quiz-app.netlify.app/",
     "bgcolor": "#f85781",
     "id": "4"
   },
@@ -34,12 +34,12 @@
  
 
   {
-    "title": "BMI CALCULATOR....coming soon",
+    "title": "Calculator-app",
     "image": "./projectImages/planner.png",
     "technologies": "",
-    "github": "",
-    "deployed": "",
+    "github": "https://github.com/Chibyktboy/simple-calculator",
+    "deployed": "https://chitech-calculator.netlify.app/",
     "bgcolor": "#3e67ff",
-    "id": "6"
+    "id": "5"
   }
 ]
