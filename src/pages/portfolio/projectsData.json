@@ -36,7 +36,7 @@
   {
     "title": "Calculator-app",
     "image": "./projectImages/planner.png",
-    "technologies": "",
+    "technologies": "React| HTML | CSS",
     "github": "https://github.com/Chibyktboy/simple-calculator",
     "deployed": "https://chitech-calculator.netlify.app/",
     "bgcolor": "#3e67ff",
